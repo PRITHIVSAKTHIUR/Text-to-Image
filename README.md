@@ -52,7 +52,7 @@ license: creativeml-openrail-m
 
 Load all the model insights
 
-![alt text](working/load.png)
+![alt text](working/Load.png)
 
 Compiled & Ready to Launch
 
