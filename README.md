@@ -12,6 +12,8 @@ license: creativeml-openrail-m
 ---
 
 
+![alt text](assets/t2i.gif)
+
 
 ## Working 
 
