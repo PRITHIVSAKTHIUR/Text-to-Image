@@ -1,0 +1,8 @@
+torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+diffusers
+gradio
+safetensors
+xformers
+invisible_watermark
+accelerate
+huggingface_hub
